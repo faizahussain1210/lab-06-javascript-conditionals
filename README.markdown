@@ -1,3 +1,3 @@
-This is lab 06... \n
-It's about JavaScript conditionals. \n
+This is lab 06... 
+It's about JavaScript conditionals. 
 https://github.com/faizahussain1210/lab-06-javascript-conditionals/blob/master/README.markdown
